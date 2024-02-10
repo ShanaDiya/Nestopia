@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629923668559",
+    "project_id": "nestopia-1624",
+    "storage_bucket": "nestopia-1624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629923668559:android:77142c4a72abd66e53403a",
+        "android_client_info": {
+          "package_name": "com.Tree.Nestopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCev7niMlKaGqZVZQyW8LDLdCEZexcvXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
